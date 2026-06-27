@@ -1,7 +1,7 @@
 # Skycity Restaurant Growth Analysis Dashboard
 
 ## Project Overview
-The skycity Restaurant Growth Analytics Dashboard is a data-driven analytics project developed to analyze restaurant performance,identify growth opportunities and generate strategic business recommendations. Using data analysis and machine learning techniques such as Exploratory Data Analysis(EDA), Feature Enginnering, Principal Componenet Analysis(PCA), and KMeans Clustering, restaurants are segemented into meaningful performance groups.
+The skycity Restaurant Growth Analytics Dashboard is a data-driven analytics project developed to analyze restaurant performance,identify growth opportunities and generate strategic business recommendations. Using data analysis and machine learning techniques such as Exploratory Data Analysis(EDA), Feature Engineering, Principal Componenet Analysis(PCA), and KMeans Clustering, restaurants are segmented into meaningful performance groups.
 
 ## Problem Statement
 The restaurant industry generates large amounts of operational and financial data, but converting this data into meaningful business strategies is challenging. Restaurants have different performance patterns based on revenue generation, profitability,delivery channel dependency, operational efficiency , and growth potential. Applying the same strategy to all restaurants may lead to ineffective decisions. This project aims to analyze restaurant performance , identify different business segments using machine learning techniques, evaluate growth potential, and provide customized strategic recommendations such as expansion, stabilization, and optimization.
@@ -66,7 +66,7 @@ Key dashbaord components include:
 - Growth potential Index analysis
 - Channel performance insights
 - Strategic recommendations based on restaurant segments.
-This dasghboard allows business users to interact with data and identify restaurants suitable for expansion, stabilization, or optimization.
+This dashboard allows business users to interact with data and identify restaurants suitable for expansion, stabilization, or optimization.
 
 ## Visualizations
 ### Monthly Order Overview
@@ -113,7 +113,7 @@ This dasghboard allows business users to interact with data and identify restaur
 - Outlier detection
 - Correlation analysis
 - Channel performance analysis
-### Fature Engineering
+### Feature Engineering
 - Total Revenue
 - Total Profit
 - Profit Margin
@@ -123,11 +123,11 @@ This dasghboard allows business users to interact with data and identify restaur
 - Expansion Headroom
 ### PCA and clustering
 PCA was applied to reduce feature complexity and visualize performance patterns.
-K-Means clustering was used to segment restaurantsinto four business groups:
+K-Means clustering was used to segment restaurants into four business groups:
 - Growth Leaders
 - Stable Local Performers
 - Aggregator Dependent Low Margin
-- Scaleble Self-delivery Leaders
+- Scalable Self-delivery Leaders
 
 ## Growth Potential Index
 A Growth Potential Index was developed using:
@@ -138,7 +138,7 @@ The index classifies restaurants into:
 - High Potential
 - Medium Potential
 - Low Potential
-This helps identify restaurantssuitable for expansion and those requiring improivement strategies.
+This helps identify restaurants suitable for expansion and those requiring improvement strategies.
 
 ## Results and Business Impact
 The project successfully analyzed restaurant performance patterns and identified meaningful business segments using data analytics and machine learning techniques.
